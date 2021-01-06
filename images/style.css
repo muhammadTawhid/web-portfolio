@@ -1,0 +1,68 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+h1{
+
+    font-size: 50px;
+}
+.h2{
+    font-size: 40px;
+}
+.name-colr{
+   color: darkmagenta;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 400px;
+}
+p{
+    font-size: 21px;
+}
+.link-button{
+    text-decoration: none;
+    background-color:purple;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-weight: 550;
+}
+section{
+    height: 400px;
+    padding-bottom: 80px;
+}
+.half{
+    width: 30%;
+float: left;
+margin-left: 3%;
+}
+.three{
+padding-left: 30%;
+padding-bottom: 3%;
+color: black ;
+opacity: 70%;
+}
+
+
+.half img {
+    width: 320px;
+    height: 160px;
+}
+.half{
+    box-shadow: 10px 10px 40px gray;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.last{
+    padding-left: 40%;
+    font-size: 30px;
+    background-image: url(images/banr.png);
+    color: white;
+    border-radius: 90px;
+}
